@@ -38,7 +38,7 @@ session operates in a virtual environment set up by `virtualenv`.
 ## Configurations
 Go to the 
 ```sh
-(venv) cd manatal/manatal/
+(venv) cd manatal/
 ```
 Open the `settings.py` file:
 find the to the DATABASE settings/section and replace the `NAME` `USER` and `PASSWORD` with your own credentials 
