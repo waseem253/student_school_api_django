@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from student_school.views import StudentView, SchoolView, StudentSchoolView
+from student_school.views import StudentView,SchoolView,StudentSchoolView
 from rest_framework_nested import routers
 
 router = routers.DefaultRouter()

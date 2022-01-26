@@ -7,6 +7,7 @@ name = "pypi"
 djangorestframework = "*"
 psycopg2-binary = "*"
 drf-nested-routers = "*"
+install = "*"
 
 [dev-packages]
 
