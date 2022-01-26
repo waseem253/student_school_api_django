@@ -76,9 +76,9 @@ WSGI_APPLICATION = 'manatal.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "django_test1",
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'NAME': "your db name",
+        'USER': 'your postgres user',
+        'PASSWORD': 'your postgres password',
         'HOST': 'localhost',
     }
 }
